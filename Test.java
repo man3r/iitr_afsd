@@ -1,8 +1,7 @@
 package iitr_afsd;
 
 //Test comments
-// Added under parallel-one branch
-// Added under parallel-two branch
+// Added under b1
 class First
 
 {
