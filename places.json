@@ -13,5 +13,15 @@
         "id": 3,
         "name": "Hyderabad",
         "state": "Telangana"
+    },
+    {
+        "id": 4,
+        "name": "Kakinada",
+        "state": "Andhra"
+    },
+    {
+        "id": 5,
+        "name": "Chennai",
+        "state": "Tamilnadu"
     }
 ]
