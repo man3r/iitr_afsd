@@ -23,5 +23,10 @@
         "id": 5,
         "name": "Chennai",
         "state": "Tamilnadu"
+    },
+    {
+        "id": 6,
+        "name": "Goa",
+        "state": "Maharashtra"
     }
 ]
