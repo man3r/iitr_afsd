@@ -28,5 +28,12 @@
         "id": 6,
         "name": "Munnar",
         "state": "Kerala"
+        "name": "Goa",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 7,
+        "name": "Goa",
+        "state": "Maharashtra"
     }
 ]
