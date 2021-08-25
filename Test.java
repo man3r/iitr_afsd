@@ -1,47 +1,41 @@
-package iitr_afsd;
 
-//Test comments
-// Added under b1
-// Added under b2
-class First
+public class Test
 
 {
 
-    int i;
+    private int data = 5;
 
-}
-
-class Second extends First
-
-{
-
-    int j;
-
-    void display()
+    public int getValue()
 
     {
 
-        super.i = j + 1;
-
-        System.out.println(j + " " + i);
+        return this.data;
 
     }
 
-}
-
-public class Test {
-
-    public static void main(String args[])
+    public int getValue(int value)
 
     {
 
-        Second obj = new Second();
+        return (data + 1);
 
-        obj.i = 1;
+    }
 
-        obj.j = 2;
+    public int getValue(int... value)
 
-        obj.display();
+    {
+
+        return (data + 2);
+
+    }
+
+    public static void main(String[] args)
+
+    {
+
+        Test temp = new Test();
+
+        System.out.println(temp.getValue(7, 8, 12));
 
     }
 
