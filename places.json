@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "name": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 2,
+        "name": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 3,
+        "name": "Hyderabad",
+        "state": "Telangana"
+    },
+    {
+        "id": 4,
+        "name": "Kakinada",
+        "state": "Andhra"
+    },
+    {
+        "id": 5,
+        "name": "Chennai",
+        "state": "Tamilnadu"
+    },
+    {
+        "id": 6,
+        "name": "Munnar",
+        "state": "Kerala"
+        "name": "Goa",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 7,
+        "name": "Goa",
+        "state": "Maharashtra"
+    }
+]
