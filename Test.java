@@ -36,6 +36,7 @@ public class Test
         Test temp = new Test();
 
         System.out.println(temp.getValue(7, 8, 12));
+        System.out.println("empty string");
 
     }
 
