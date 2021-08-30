@@ -36,7 +36,7 @@ class ClassA extends ClassB
 
     }
 
-    private int getData()
+    public int getData()
 
     {
 
