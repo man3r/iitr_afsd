@@ -22,7 +22,7 @@ public class LinkedlistTest {
         st.push(10);
         st.
 
-        System.out.println(st);
+                System.out.println(st);
 
     }
 
