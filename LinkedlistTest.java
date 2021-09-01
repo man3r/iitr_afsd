@@ -20,10 +20,7 @@ public class LinkedlistTest {
 
         Stack<Integer> st = new Stack<>();
         st.push(10);
-        st.
-
-                System.out.println(st);
-
+        System.out.println(st);
     }
 
 }
